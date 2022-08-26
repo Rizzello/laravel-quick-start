@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "rizzello/laravel-quick-start",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Laravel Framework Quickstart Project.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
